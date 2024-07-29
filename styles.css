@@ -166,3 +166,13 @@ p{
     border-bottom: 3px solid red;
 
 }
+@media (min-width: 768px){
+    body{
+        font-size: 18px;
+    }
+}
+@media (min-width: 1024px) {
+    body {
+        font-size: 20px;
+    }
+}
